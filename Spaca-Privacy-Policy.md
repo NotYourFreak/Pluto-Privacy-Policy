@@ -1,4 +1,4 @@
-# Aria-Docs
+# Spaca-Docs
 
 ________________________________________________________________________________________
 
@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 • If u won't follow Our Terms Of service Or Privacy Policy May Lead Blacklist.
 
-• Aria. ™
+• Spaca. ™
 
 • Your Age Must Be 13 Or 13+ If U Are Below Than 13+ U Will Bot Ban / Blacklist.
 
@@ -18,19 +18,19 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-• Aria. ™ What Will Store?
+• Spaca. ™ What Will Store?
 
-• Spooky™ will Store User ids & Guild Ids For Moderation Commands Purpose
+• Spaca. ™ will Store User ids & Guild Ids For Moderation Commands Purpose
 
 • We Don't Store Ur Privacy Only Bot will Store Guild IDs And User Ids
 
-• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Aria. ™ Is Fully Trusted Bot
+• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Spaca. ™ Is Fully Trusted Bot
 
 ________________________________________________________________________________________
 
-• Invite Aria. ™ And Support Us
+• Invite Spaca. ™ And Support Us
 
-• Invite Aria. ™ Now <3.
+• Invite Spaca. ™ Now <3.
 
 • Join Support Server And Say If U Feel Any Bugs
 
