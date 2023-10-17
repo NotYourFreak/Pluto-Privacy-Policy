@@ -1,4 +1,4 @@
-# Spaca-Docs
+# Campaign-Docs
 
 ________________________________________________________________________________________
 
@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 • If u won't follow Our Terms Of service Or Privacy Policy May Lead Blacklist.
 
-• Spaca. ™
+• Campaign
 
 • Your Age Must Be 13 Or 13+ If U Are Below Than 13+ U Will Bot Ban / Blacklist.
 
@@ -18,19 +18,19 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-• Spaca. ™ What Will Store?
+• Campaign What Will Store?
 
-• Spaca. ™ will Store User ids & Guild Ids For Moderation Commands Purpose
+• Campaign will Store User ids & Guild Ids For Moderation Commands Purpose
 
 • We Don't Store Ur Privacy Only Bot will Store Guild IDs And User Ids
 
-• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Spaca. ™ Is Fully Trusted Bot
+• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Campaign Is Fully Trusted Bot
 
 ________________________________________________________________________________________
 
-• Invite Spaca. ™ And Support Us
+• Invite Campaign And Support Us
 
-• Invite Spaca. ™ Now <3.
+• Invite Campaign Now <3.
 
 • Join Support Server And Say If U Feel Any Bugs
 
