@@ -1,4 +1,4 @@
-# Campaign-Docs
+# Pluto-Docs
 
 ________________________________________________________________________________________
 
@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 • If u won't follow Our Terms Of service Or Privacy Policy May Lead Blacklist.
 
-• Campaign
+• Pluto™
 
 • Your Age Must Be 13 Or 13+ If U Are Below Than 13+ U Will Bot Ban / Blacklist.
 
@@ -18,19 +18,19 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-• Campaign What Will Store?
+• Pluto™ What Will Store?
 
-• Campaign will Store User ids & Guild Ids For Moderation Commands Purpose
+• Pluto™ will Store User ids & Guild Ids For Moderation Commands Purpose
 
 • We Don't Store Ur Privacy Only Bot will Store Guild IDs And User Ids
 
-• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Campaign Is Fully Trusted Bot
+• We Don't Try To Hack / Nuke Ur Server We Don't Do Like That Pluto™ Is Fully Trusted Bot
 
 ________________________________________________________________________________________
 
-• Invite Campaign And Support Us
+• Invite Pluto™ And Support Us
 
-• Invite Campaign Now <3.
+• Invite Pluto™ Now <3.
 
 • Join Support Server And Say If U Feel Any Bugs
 
